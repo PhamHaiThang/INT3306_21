@@ -1,1 +1,3 @@
-# INT3306_21
+This repository is belong to Phạm Hải Thắng
+
+Under the collaboration of:
